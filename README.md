@@ -84,24 +84,6 @@ JWT_SECRET=your_jwt_secret
 
 ---
 
-## 📷 Screenshots
-
-_Add relevant screenshots of the UI if available._
-
----
-
-## 🧪 Testing
-
-To be added – instructions for unit/integration tests (if implemented).
-
----
-
-## 🤝 Contributing
-
-Feel free to fork the project and create a pull request. Suggestions and improvements are welcome!
-
----
-
 ## 📄 License
 
 This project is open-source and available under the MIT License.
